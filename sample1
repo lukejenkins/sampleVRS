@@ -1,0 +1,55 @@
+{"acList":[{
+
+	"Sig": 103,
+
+	"Icao": "ADFBDE"
+
+}, {
+
+	"Sig": 24,
+
+	"Icao": "AB635D",
+
+	"Alt": 6900,
+
+	"GAlt": 6912,
+
+	"InHg": 29.93171,
+
+	"AltT": 0,
+
+	"TAlt": 16000,
+
+	"Lat": 21.104828,
+
+	"Long": -156.391879,
+
+	"Mlat": false,
+
+	"Tisb": false,
+
+	"Spd": 281.9,
+
+	"Trak": 8.2,
+
+	"TrkH": false,
+
+	"TTrk": 0.0,
+
+	"Sqk": "2610",
+
+	"Help": false,
+
+	"Vsi": 2624,
+
+	"VsiT": 1,
+
+	"Gnd": false,
+
+	"SpdTyp": 0,
+
+	"CallSus": false,
+
+	"Trt": 5
+
+}]}
